@@ -1,0 +1,31 @@
+.header {   
+	background-image: url("../photo/42512497_M.jpg");
+    height: 620px;
+    background-size: cover;} 
+.text-center {
+	margin-top: 50px
+}
+.main, .skills {
+	border-bottom: 1px solid grey; 
+}
+h2.text-center {
+	font-style: italic;
+}
+.nav-link {
+	font-size: 20px;
+	color: white;
+}
+.nav-link:hover {
+	border-bottom: 0.1px solid white;
+	text-decoration: none;
+}
+.nav-link:visited {
+	color: white;
+	text-decoration: none; 
+}
+#name {
+	color: white;
+	margin: 25px;
+}
+h1.text-center {
+font-size: 20px;}
