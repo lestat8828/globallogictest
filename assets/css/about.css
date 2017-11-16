@@ -28,8 +28,57 @@ h2.text-center {
 	margin: 25px;
 }
 h1.text-center {
-font-size: 40px;}
-footer { 
-	background-color: grey;
-
+font-size: 40px;
 }
+.navbar-brand { position: relative;
+	top: -45px;
+}
+footer {  
+	background-color: dimgrey;
+}
+.align-items-center {
+	margin-bottom: auto;
+}
+.progress-bar {
+	background-color: dimgrey;
+}
+input, textarea {
+	padding: 5px;
+	margin: 10px;
+	width: 400px;
+}
+button {
+	margin-left: 125px;
+    width: 150px;
+    height: 30px;
+    color: white;
+    background-color: dimgrey;
+}
+form {
+	position: relative;
+    right: 350px;
+    bottom:10px;
+}
+.number, .email, .skype {
+	position: relative;
+	left: 50px;
+}
+div.number>p, .email>p, .skype>p {font-size: 15px;
+	color: grey;
+}
+div.number>h3, .email>h3, .skype>h3 {font-size: 20px;
+}
+div.skill_name>p {font-weight:bold;}
+.col-md-auto>p {
+	color: white;
+	margin-top: 10px;
+}
+.col-md-auto {
+	position: relative;
+	left: -200px;
+	top: 25px;
+}
+.col-4 {position: relative;
+	left: 480px;
+	top: 50px;	
+	}
